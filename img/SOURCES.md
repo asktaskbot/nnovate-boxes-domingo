@@ -1,0 +1,27 @@
+# Image sources (Pexels, free Pexels License)
+
+- img/mailer-open-socks.webp — https://www.pexels.com/photo/9594414/
+- img/mailer-open-knit.webp — https://www.pexels.com/photo/9594432/
+- img/mailer-closed-sleeves.webp — https://www.pexels.com/photo/9594148/
+- img/kraft-pouch.webp — https://www.pexels.com/photo/8015884/
+- img/kraft-tray-yellow.webp — https://www.pexels.com/photo/7957726/
+- img/kraft-lidded.webp — https://www.pexels.com/photo/8015700/
+- img/kraft-edge-orange.webp — https://www.pexels.com/photo/17260157/
+- img/kraft-stack-orange.webp — https://www.pexels.com/photo/17260158/
+- img/flat-mailer-stack.webp — https://www.pexels.com/photo/20187073/
+- img/orange-mailers-sealer.webp — https://www.pexels.com/photo/6152271/
+- img/rigid-stack-blush.webp — https://www.pexels.com/photo/4271686/
+- img/rigid-stack-pink-black.webp — https://www.pexels.com/photo/4271692/
+- img/rigid-stack-black.webp — https://www.pexels.com/photo/4271695/
+- img/gift-stack-red.webp — https://www.pexels.com/photo/6087540/
+- img/kraft-favor-ribbon.webp — https://www.pexels.com/photo/37710432/
+- img/kraft-cubes-flowers.webp — https://www.pexels.com/photo/7309205/
+- img/kraft-rounds-hand.webp — https://www.pexels.com/photo/7309438/
+- img/kraft-rounds-hand-2.webp — https://www.pexels.com/photo/7309446/
+- img/gift-stack-hands.webp — https://www.pexels.com/photo/7552578/
+- img/white-mailers-marble.webp — https://www.pexels.com/photo/4464887/
+- img/seal-sticker-hand.webp — https://www.pexels.com/photo/17891962/
+- img/tape-seal.webp — https://www.pexels.com/photo/6169019/
+- img/twine-tie.webp — https://www.pexels.com/photo/7223562/
+- img/packing-hands-tissue.webp — https://www.pexels.com/photo/9594502/ (hands packing a box, no faces)
+- img/box-in-box-yellow.webp — https://www.pexels.com/photo/8166853/
